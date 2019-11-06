@@ -17,6 +17,4 @@ Obs.: a página não servirá para comunicações rápidas entre professor / est
 
 ## Manutenção e hospedagem
 
-O sítio será hospedado no Firebase por praticidade, e o código hospedado no Bitbucket. Utilizarei o serviço CircleCI para automatizar o *deploy*, conforme o tutorial publicado por Chris em 2017 [1].
-
-[1]: https://chris.banes.dev/2017/06/02/jekyll-firebase/
+O sítio será hospedado no Firebase por praticidade.
