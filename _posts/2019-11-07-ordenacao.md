@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ordenação"
-date:   2019-11-06 20:22:00 -0400
+date:   2019-11-07 15:34:00 -0400
 categories: estudo
 ---
 
