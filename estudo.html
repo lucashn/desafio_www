@@ -1,0 +1,20 @@
+---
+layout: post
+title: Tópicos para estudo
+permalink: /estudo/
+---
+
+<ul>
+
+  {% if site.categories.estudo %}
+  {% assign postsOrdenados = site.categories.estudo | sort: 'title' %}
+  {% for post in postsOrdenados %}
+  <li>
+    <div>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </div>
+  </li>
+  {% endfor %}
+  {% endif %}
+
+</ul>

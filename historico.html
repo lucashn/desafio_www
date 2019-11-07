@@ -1,0 +1,20 @@
+---
+layout: post
+title: Edições anteriores
+permalink: /historico/
+---
+
+<ul>
+
+  {% if site.categories.historico %}
+  {% assign postsOrdenados = site.categories.historico | sort: 'title' %}
+  {% for post in postsOrdenados %}
+  <li>
+    <div>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </div>
+  </li>
+  {% endfor %}
+  {% endif %}
+
+</ul>
