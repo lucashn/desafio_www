@@ -5,10 +5,10 @@ date:   2019-11-10 16:12:00 -0400
 categories: estudo
 ---
 
-A *entrada e saída de dados* é como um programa se comunica com um usuário ou outros programas. Na maioria das linguagens de programação, existe o conceito de *entrada e saída padrão*, que são usualmente mapeados para a entrada via teclado e a saída via terminal.
+*Entrada e saída de dados* é um termo que significa como um programa se comunica com o usuário ou outros programas. A maioria das linguagens de programação possui o conceito de entrada e saída *padrão*, onde a entrada de dados é feita pelo teclado e a saída via terminal.
 
 Nas competições de programação, como na *Maratona de Programação* e na *Olimpíada Brasileira de Informática*, o programador deverá utilizar
-a *entrada e saída padrão* para ler os dados do problema e imprimir a saída. Entretanto, nas competições o teste do programa é automatizado e realizado sem a intervenção humana (a entrada e saída padrão são mapeadas para arquivos), e por isto o programador deverá ficar atento ao formato imposto pelo problema: qualquer vírgula ou espaço a mais na saída caracteriza um erro.
+a *entrada e saída padrão* para ler os dados do problema e imprimir a resposta. Entretanto, nas competições, o teste do programa é automatizado e realizado sem a intervenção humana, sendo a entrada e saída padrão são mapeadas para arquivos. Por isto, o programador deve ficar atento ao formato imposto pelo problema: qualquer vírgula ou espaço a mais na saída caracteriza um erro.
 
 ## Saída de dados
 
