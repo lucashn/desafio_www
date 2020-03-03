@@ -61,7 +61,7 @@ As linguagens de programação usualmente implementam variantes do *Quicksort* e
 
 A [página da Wikipedia][1] sobre métodos de ordenação apresenta os principais métodos.
 
-## Probemas relacionados
+## Problemas relacionados
 
 - [Amigos do Habay][3]
 - [Bolhas e baldes][2]
