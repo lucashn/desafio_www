@@ -15,6 +15,18 @@ Entre utilizar um gerador de páginas estáticas, como o Jekyll, e escrever um a
 
 Obs.: a página não servirá para comunicações rápidas entre professor / estudante, sendo reservado para isto o e-mail.
 
+## Tecnologias
+
+- Markdown como formato de escrita
+- git para versionamento
+- Jekyll como gerador de páginas estáticas
+- Firebase para hospedagem
+
+## Passo a passo
+
+- bundle exec jekyll build
+- firebase deploy
+
 ## Manutenção e hospedagem
 
 O sítio será hospedado no Firebase por praticidade.
