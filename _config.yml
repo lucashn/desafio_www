@@ -1,10 +1,10 @@
 # {{ site.myvariable }}.
-title: Desafio de Programação
+title: Clube do Código
 author: Lucas H. Negri
 email: lucas.negri@ifms.edu.br
 description: >- 
-  Sítio que reúne informações sobre o projeto de ensino "Desafio de Programação", realizado no
-  Instituto Federal de Mato Grosso do Sul, câmpus Nova Andradina. Aqui você encontrará informações
+  Sítio que reúne informações sobre o projeto de ensino "Clube do Código" (antigo Desafio de Programação), realizado no
+  Instituto Federal de Mato Grosso do Sul, câmpus Jardim. Aqui você encontrará informações
   sobre as edições passadas e exemplos de código relevantes para competições como a Olimpíada Brasileira
   de Informática e a Maratona de Programação
 baseurl: "" # the subpath of your site, e.g. /blog
