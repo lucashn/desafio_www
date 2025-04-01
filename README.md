@@ -24,7 +24,10 @@ Obs.: a página não servirá para comunicações rápidas entre professor / est
 
 ## Passo a passo
 
-- bundle exec jekyll build
+- Instalar ruby e ruby-erb
+- Instalar build-essentials ou base-devel e openssl. Remover Gemfile.lock se necessário
+- gem install bundler jekyll
+- bundle exec jekyll serve
 - firebase deploy
 
 ## Manutenção e hospedagem
